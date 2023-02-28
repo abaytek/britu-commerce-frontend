@@ -1,1 +1,1 @@
-export const url = 'http://localhost:5000/api/v1/';
+export const url = 'https://ecommerce-be32.onrender.com/api/v1';
